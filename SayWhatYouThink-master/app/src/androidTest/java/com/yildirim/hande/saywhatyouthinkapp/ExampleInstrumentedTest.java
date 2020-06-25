@@ -1,4 +1,4 @@
-package com.gok.selin.saywhatyouthinkapp;
+package com.yildirim.hande.saywhatyouthinkapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.gok.selin.saywhatyouthinkapp", appContext.getPackageName());
+        assertEquals("com.yildirim.hande.saywhatyouthinkapp", appContext.getPackageName());
     }
 }
